@@ -1,16 +1,5 @@
-*Design Patterns are consisted of total 23 Design Patterns, 
-which demonstrates the solution to those problems 
-which were once faced by the prior developers and 
-later on they crafted the solution to it and 
-we then use it to solve the related problems we faced today*
+*Design Patterns are consisted of total 23 Design Patterns, which demonstrates the solution to those problems which were once faced by the prior developers and later on they crafted the solution to it and we then use it to solve the related problems we faced today*
 
-*One thing which is common in all these patterns is 
-the entire code base, consisted of total 2 parts
-One is Static-> Never changes and  other is dynamic -->Keeps on changing based on functionalities 
-like new feature added and other.
-so then, we keep this part in seperate class so that we can apply changes without affecting the code base...*
+*One thing which is common in all these patterns is the entire code base, consisted of total 2 parts One is Static-> Never changes and  other is dynamic -->Keeps on changing based on functionalities like new feature added and other. so then, we keep this part in seperate class so that we can apply changes without affecting the code base...*
 
-*Another thing is problem with the inheritance, like based on requiremnet as robot example,
-we kept separting the class, flyingwithjet, nofly, withremote and nonremote and so on,
-leading to inherit those properties which never gonna be used by other class derived from it, 
-leading to break the SOLID principles, thus we mainly use the composition over inheritance*
+*Another thing is problem with the inheritance, like based on requiremnet as robot example, we kept separting the class, flyingwithjet, nofly, withremote and nonremote and so on, leading to inherit those properties which never gonna be used by other class derived from it, leading to break the SOLID principles, thus we mainly use the composition over inheritance*
